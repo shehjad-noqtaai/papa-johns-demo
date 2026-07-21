@@ -1,0 +1,364 @@
+{
+  "_type": "footer",
+  "companyLinksTitle": "Our Company",
+  "companyLinks": [
+    {
+      "label": "About Papa Johns",
+      "url": "/company/index.html"
+    },
+    {
+      "label": "Investor Relations",
+      "url": "http://ir.papajohns.com/"
+    },
+    {
+      "label": "The Sauce – News & Stories",
+      "url": "https://stories.papajohns.com/?utm_source=papajohns.com&utm_medium=footer-link&utm_campaign=the-sauce-news-and-stories"
+    },
+    {
+      "label": "Careers",
+      "url": "https://jobs.papajohns.com/?utm_source=papajohns.com&utm_medium=organic&utm_campaign=web-footer&_ga=2.102133378.226409509.1708349508-145067125.1708118225"
+    },
+    {
+      "label": "No Contact Delivery",
+      "url": "https://www.papajohns.com/no-contact-delivery/"
+    }
+  ],
+  "pizzaLinksTitle": "Our Pizza",
+  "pizzaLinks": [
+    {
+      "label": "Pizza Pages",
+      "url": "/pizza-pages/"
+    },
+    {
+      "label": "Nutritional Info",
+      "url": "/company/nutrition-allergen-information.html"
+    },
+    {
+      "label": "Allergen Guide",
+      "url": "/allergens/papa-johns-allergen-guide.html"
+    },
+    {
+      "label": "Ingredients",
+      "url": "/company/papa-johns-ingredients.html"
+    },
+    {
+      "label": "Quality Guarantee",
+      "url": "/company/quality-guarantee.html"
+    }
+  ],
+  "helpLinksTitle": "Help",
+  "helpLinks": [
+    {
+      "label": "Customer Service",
+      "url": "/customer-service/"
+    },
+    {
+      "label": "Ordering",
+      "url": "/ordering/"
+    },
+    {
+      "label": "Gift Cards",
+      "url": "/gift-cards/"
+    },
+    {
+      "label": "Store List",
+      "url": "/locations/"
+    }
+  ],
+  "legalLinks": [
+    {
+      "label": "International Sites",
+      "url": "/international/#asia"
+    },
+    {
+      "label": "Privacy",
+      "url": "/privacy-policy.html"
+    },
+    {
+      "label": "Notice At Collection",
+      "url": "/privacy-policy.html"
+    },
+    {
+      "label": "Terms of Use",
+      "url": "/terms-and-conditions.html"
+    },
+    {
+      "label": "Site Map",
+      "url": "/sitemap.html"
+    },
+    {
+      "label": "Text & Email Offers",
+      "url": "/promotional-offers/"
+    },
+    {
+      "label": "Pizza Deals & Specials",
+      "url": "/specials/"
+    }
+  ],
+  "usLocationsTitle": "Papa Johns Pizza Stores in The United States:",
+  "usLocations": [
+    {
+      "label": "Alaska1",
+      "url": "https://locations.papajohns.com/united-states/ak"
+    },
+    {
+      "label": "Alabama",
+      "url": "https://locations.papajohns.com/united-states/al"
+    },
+    {
+      "label": "Arkansas",
+      "url": "https://locations.papajohns.com/united-states/ar"
+    },
+    {
+      "label": "Arizona",
+      "url": "https://locations.papajohns.com/united-states/az"
+    },
+    {
+      "label": "California",
+      "url": "https://locations.papajohns.com/united-states/ca"
+    },
+    {
+      "label": "Colorado",
+      "url": "https://locations.papajohns.com/united-states/co"
+    },
+    {
+      "label": "Connecticut",
+      "url": "https://locations.papajohns.com/united-states/ct"
+    },
+    {
+      "label": "Washington",
+      "url": "https://locations.papajohns.com/united-states/dc/washington"
+    },
+    {
+      "label": "Delaware",
+      "url": "https://locations.papajohns.com/united-states/de"
+    },
+    {
+      "label": "Florida",
+      "url": "https://locations.papajohns.com/united-states/fl"
+    },
+    {
+      "label": "Georgia",
+      "url": "https://locations.papajohns.com/united-states/ga"
+    },
+    {
+      "label": "Hawaii",
+      "url": "https://locations.papajohns.com/united-states/hi"
+    },
+    {
+      "label": "Iowa",
+      "url": "https://locations.papajohns.com/united-states/ia"
+    },
+    {
+      "label": "Idaho",
+      "url": "https://locations.papajohns.com/united-states/id"
+    },
+    {
+      "label": "Illinois",
+      "url": "https://locations.papajohns.com/united-states/il"
+    },
+    {
+      "label": "Indiana",
+      "url": "https://locations.papajohns.com/united-states/in"
+    },
+    {
+      "label": "Kansas",
+      "url": "https://locations.papajohns.com/united-states/ks"
+    },
+    {
+      "label": "Kentucky",
+      "url": "https://locations.papajohns.com/united-states/ky"
+    },
+    {
+      "label": "Louisiana",
+      "url": "https://locations.papajohns.com/united-states/la"
+    },
+    {
+      "label": "Massachusetts",
+      "url": "https://locations.papajohns.com/united-states/ma"
+    },
+    {
+      "label": "Maryland",
+      "url": "https://locations.papajohns.com/united-states/md"
+    },
+    {
+      "label": "Maine",
+      "url": "https://locations.papajohns.com/united-states/me"
+    },
+    {
+      "label": "Michigan",
+      "url": "https://locations.papajohns.com/united-states/mi"
+    },
+    {
+      "label": "Minnesota",
+      "url": "https://locations.papajohns.com/united-states/mn"
+    },
+    {
+      "label": "Missouri",
+      "url": "https://locations.papajohns.com/united-states/mo"
+    },
+    {
+      "label": "Mississippi",
+      "url": "https://locations.papajohns.com/united-states/ms"
+    },
+    {
+      "label": "Montana",
+      "url": "https://locations.papajohns.com/united-states/mt"
+    },
+    {
+      "label": "North Carolina",
+      "url": "https://locations.papajohns.com/united-states/nc"
+    },
+    {
+      "label": "North Dakota",
+      "url": "https://locations.papajohns.com/united-states/nd"
+    },
+    {
+      "label": "Nebraska",
+      "url": "https://locations.papajohns.com/united-states/ne"
+    },
+    {
+      "label": "New Hampshire",
+      "url": "https://locations.papajohns.com/united-states/nh"
+    },
+    {
+      "label": "New Jersey",
+      "url": "https://locations.papajohns.com/united-states/nj"
+    },
+    {
+      "label": "New Mexico",
+      "url": "https://locations.papajohns.com/united-states/nm"
+    },
+    {
+      "label": "Nevada",
+      "url": "https://locations.papajohns.com/united-states/nv"
+    },
+    {
+      "label": "New York",
+      "url": "https://locations.papajohns.com/united-states/ny"
+    },
+    {
+      "label": "Ohio",
+      "url": "https://locations.papajohns.com/united-states/oh"
+    },
+    {
+      "label": "Oklahoma",
+      "url": "https://locations.papajohns.com/united-states/ok"
+    },
+    {
+      "label": "Oregon",
+      "url": "https://locations.papajohns.com/united-states/or"
+    },
+    {
+      "label": "Pennsylvania",
+      "url": "https://locations.papajohns.com/united-states/pa"
+    },
+    {
+      "label": "Rhode Island",
+      "url": "https://locations.papajohns.com/united-states/ri"
+    },
+    {
+      "label": "South Carolina",
+      "url": "https://locations.papajohns.com/united-states/sc"
+    },
+    {
+      "label": "South Dakota",
+      "url": "https://locations.papajohns.com/united-states/sd"
+    },
+    {
+      "label": "Tennessee",
+      "url": "https://locations.papajohns.com/united-states/tn"
+    },
+    {
+      "label": "Texas",
+      "url": "https://locations.papajohns.com/united-states/tx"
+    },
+    {
+      "label": "Utah",
+      "url": "https://locations.papajohns.com/united-states/ut"
+    },
+    {
+      "label": "Virginia",
+      "url": "https://locations.papajohns.com/united-states/va"
+    },
+    {
+      "label": "Vermont",
+      "url": "https://locations.papajohns.com/united-states/vt/05401/burlington/135-pearl-street"
+    },
+    {
+      "label": "Washington",
+      "url": "https://locations.papajohns.com/united-states/wa"
+    },
+    {
+      "label": "Wisconsin",
+      "url": "https://locations.papajohns.com/united-states/wi"
+    },
+    {
+      "label": "West Virginia",
+      "url": "https://locations.papajohns.com/united-states/wv"
+    },
+    {
+      "label": "Wyoming",
+      "url": "https://locations.papajohns.com/united-states/wy"
+    }
+  ],
+  "caLocationsTitle": "Papa Johns Pizza Stores in Canada:",
+  "caLocations": [
+    {
+      "label": "Alberta",
+      "url": "https://locations.papajohns.com/canada/ab"
+    },
+    {
+      "label": "British Columbia",
+      "url": "https://locations.papajohns.com/canada/bc"
+    },
+    {
+      "label": "Manitoba",
+      "url": "https://locations.papajohns.com/canada/mb"
+    },
+    {
+      "label": "New Brunswick",
+      "url": "https://locations.papajohns.com/canada/nb"
+    },
+    {
+      "label": "Nova Scotia",
+      "url": "https://locations.papajohns.com/canada/ns"
+    },
+    {
+      "label": "Ontario",
+      "url": "https://locations.papajohns.com/canada/on"
+    },
+    {
+      "label": "Prince Edward Island",
+      "url": "https://locations.papajohns.com/canada/pe/c1a0c9/charlottetown/19-babineau-avenue"
+    },
+    {
+      "label": "Saskatchewan",
+      "url": "https://locations.papajohns.com/canada/sk?_gl=1*1kc93bt*_ga*NDA3NDcxMTM0LjE3MDg5NTc4NTQ.*_ga_J9WX5FVB6C*MTcwOTgxNzM3My41LjEuMTcwOTgxNzQwNi4wLjAuMA..&_ga=2.150063999.894253990.1709817373-407471134.1708957854"
+    }
+  ],
+  "socialLinksTitle": "Connect with Papa John's",
+  "socialLinks": [
+    {
+      "label": "facebook",
+      "url": "https://www.facebook.com/papajohnsus",
+      "icon": "/static-assets/images/web/footer/fb_icon.svg"
+    },
+    {
+      "label": "Twitter",
+      "url": "https://www.twitter.com/papajohns",
+      "icon": "/static-assets/images/web/footer/x_twitter_icon.svg"
+    },
+    {
+      "label": "youtube",
+      "url": "https://www.youtube.com/user/papajohns",
+      "icon": "/static-assets/images/web/footer/youtube_icon.svg"
+    },
+    {
+      "label": "instagram",
+      "url": "https://www.instagram.com/papajohns",
+      "icon": "/static-assets/images/web/footer/instagram_icon.svg"
+    }
+  ],
+  "disclaimerText": "Offers good for a limited time at participating U.S. Papa Johns restaurants. Prices may vary. Not valid with any other coupons or discounts. OREO is a trademark of Mondelēz International group, used under license. DORITOS® and COOL RANCH® are registered trademarks owned by Frito-Lay North America, Inc. All beverage related trademarks are registered Trademarks of PepsiCo, Inc. Mars or Affiliates Trademarks used under license. Some offers require the purchase of multiple pizzas. Some offers may be available online only. No triple toppings. Certain toppings may be excluded from special offer pizzas or require additional charge. Additional toppings extra. Limit seven toppings to ensure bake quality. Limited delivery area. Delivery fee may apply and may not be subject to discount. Minimum purchase may be required for delivery. Customer responsible for all applicable taxes. <p>Customer Care Team <a href=\"../contact-us/customer-service-feedback.html\" aria-label=\"Contact us link | Click here for Customer Care Team, open in new tab\" target=\"_blank\">Contact Us</a>. If you are using a screen reader and are having problems using this website, please call <a href=\"tel:8775477272\" aria-label=\"8 7 7. 5 4 7. 7 2 7 2.\">(877) 547-7272</a> for assistance. If you have a food allergy, please notify us.</p> <p>&copy;2024 Papa John&apos;s International, Inc. All Rights Reserved.</p> <p>Canada: Adults and youth (ages 13 and older) need an average of 2,000 calories a day, and children (ages 4 to 12) need an average of 1,500 calories a day. However, individual needs vary.<br>"
+}
