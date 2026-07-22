@@ -24,3 +24,17 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* disclaimerText arrives as raw HTML fragments (Phase 1) */
+.footer-disclaimer p {
+  margin-top: 0.75rem;
+}
+
+.footer-disclaimer a {
+  text-decoration: underline;
+  color: inherit;
+}
+
+.footer-disclaimer a:hover {
+  color: #ffffff;
+}

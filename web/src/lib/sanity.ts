@@ -33,3 +33,46 @@ export const scopeMetaQuery = `*[_type == "menuScope" && _id == $id][0]{
   level,
   "currency": coalesce(scope->currency, scope->market->currency, "USD")
 }`
+
+export interface FooterLink {
+  label: string
+  url: string
+}
+
+export interface SocialLink extends FooterLink {
+  icon: string
+}
+
+export interface FooterData {
+  companyLinksTitle: string
+  companyLinks: FooterLink[]
+  pizzaLinksTitle: string
+  pizzaLinks: FooterLink[]
+  helpLinksTitle: string
+  helpLinks: FooterLink[]
+  legalLinks: FooterLink[]
+  usLocationsTitle: string
+  usLocations: FooterLink[]
+  caLocationsTitle: string
+  caLocations: FooterLink[]
+  socialLinksTitle?: string
+  socialLinks: SocialLink[]
+  disclaimerText: string
+}
+
+export const footerQuery = `*[_type == "footer"][0]{
+  companyLinksTitle,
+  companyLinks[]{label, url},
+  pizzaLinksTitle,
+  pizzaLinks[]{label, url},
+  helpLinksTitle,
+  helpLinks[]{label, url},
+  legalLinks[]{label, url},
+  usLocationsTitle,
+  usLocations[]{label, url},
+  caLocationsTitle,
+  caLocations[]{label, url},
+  socialLinksTitle,
+  socialLinks[]{label, url, icon},
+  disclaimerText
+}`
