@@ -1,4 +1,7 @@
-import {BlockElementIcon, EarthGlobeIcon, PinIcon, StackCompactIcon} from '@sanity/icons'
+import {BlockElementIcon} from '@sanity/icons/BlockElement'
+import {EarthGlobeIcon} from '@sanity/icons/EarthGlobe'
+import {PinIcon} from '@sanity/icons/Pin'
+import {StackCompactIcon} from '@sanity/icons/StackCompact'
 import type {DefaultDocumentNodeResolver, StructureResolver} from 'sanity/structure'
 
 import {EffectiveMenuView} from './components/EffectiveMenuView'

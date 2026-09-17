@@ -1,4 +1,4 @@
-import {PinIcon} from '@sanity/icons'
+import {PinIcon} from '@sanity/icons/Pin'
 import {defineField, defineType} from 'sanity'
 
 export const store = defineType({

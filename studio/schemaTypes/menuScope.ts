@@ -1,4 +1,4 @@
-import {StackCompactIcon} from '@sanity/icons'
+import {StackCompactIcon} from '@sanity/icons/StackCompact'
 import {defineArrayMember, defineField, defineType} from 'sanity'
 
 const LEVELS = ['global', 'market', 'store'] as const

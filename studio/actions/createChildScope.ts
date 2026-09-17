@@ -1,4 +1,4 @@
-import {AddCircleIcon} from '@sanity/icons'
+import {AddCircleIcon} from '@sanity/icons/AddCircle'
 import {getPublishedId, useClient, type DocumentActionComponent} from 'sanity'
 import {useRouter} from 'sanity/router'
 
